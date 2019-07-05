@@ -1,0 +1,4 @@
+alias gst='git status'
+alias glg='git log'
+alias gdf='git diff'
+alias gdt='git difftool'
