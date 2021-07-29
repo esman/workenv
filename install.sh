@@ -2,5 +2,6 @@
 
 cd ~/.workenv
 
-exec ./bash/install.sh
-exec ./vim/install.sh
+./bash/install.sh
+./vim/install.sh
+./regolith/install.sh
