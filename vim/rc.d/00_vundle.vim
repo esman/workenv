@@ -14,7 +14,9 @@ Plugin 'editorconfig/editorconfig-vim'
 
 Plugin 'scrooloose/nerdtree'
 
-Plugin 'lyuts/vim-rtags'
+" Plugin 'lyuts/vim-rtags'
+
+Plugin 'ycm-core/YouCompleteMe'
 
 Plugin 'altercation/vim-colors-solarized'
 
